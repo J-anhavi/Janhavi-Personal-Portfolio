@@ -1,0 +1,42 @@
+# Janhavi Dhote
+
+Georgia Tech Computer Engineering student building across software systems, AI, embedded computing, networking, hardware, and security.
+
+## Focus areas
+
+- Computer engineering
+- Distributed systems, cloud, and computer networks
+- Embedded systems and hardware-software integration
+- FPGA and digital design
+- AI and computer vision
+- Databases, software-defined radio, robotics, and security
+
+## Selected work
+
+- [CuraLink](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/curalink): In-the-moment visual and voice assistance for people with Alzheimer’s, with caregiver oversight.
+- [Office Hours Queue & TA Kiosk](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/office-hours-kiosk): A Raspberry Pi check-in, staffing, and student queue system for engineering office hours.
+- [GreenBuy](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/greenbuy): Neighborhood-scale collective purchasing for sustainability upgrades.
+- [Custom Math Unit – FPGA Peripheral](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/fpga-math-unit): A custom FPGA processor peripheral implementing hardware arithmetic and processor communication.
+- [Embedded Game System](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/embedded-game): A real-time game engine and 40 × 25 world rendered on constrained Mbed hardware.
+- [LifeLens](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/lifelens): Health risk models, conversational assistance, and provider discovery in one prototype.
+- [Research Radar](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/research-radar): A local reader for collecting, deduplicating, organizing, and briefing research sources.
+- [IntentGuard](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/work/intentguard): Exploring safer intent translation between BCI decoding and AI-driven actions.
+
+## Experience
+
+- [Peer Leader — Georgia Tech ECE](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/ece1100-peer-leader): Peer leadership and engineering-education support through the ECE Peer Leader Fellowship.
+- [Undergraduate Teaching Assistant — Georgia Institute of Technology](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/cs4400-uta): Database systems, SQL, relational design and course support.
+- [Undergraduate Teaching Assistant — Georgia Institute of Technology](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/ece2035-uta): Programming, debugging and teaching support at the hardware/software boundary.
+- [Undergraduate Teaching Assistant — Georgia Institute of Technology](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/cs2340-uta): Supported ~150 students across Java/Android projects, debugging, code review, and object-oriented software design.
+- [Project Lead — Roommate Finder — GITMAD · Georgia Institute of Technology Mastering Android Development](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/gitmad-roommate-finder): Co-led a Georgia Tech mobile-development project group building Roommate Finder.
+- [Ground Operations Engineer — Small Satellite Research Laboratory · University of Georgia](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/small-satellite-research-lab): Debugged Linux/GNU Radio SDR pipelines and built low-level C/libpng image encoding and decoding systems using pixel-level manipulation and bit-level payload reconstruction.
+- [Assistant Teacher — Double Helix STEAM School](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/double-helix): Prepared weekly financial-news material and helped students connect market trends, earnings, and upcoming events to investing strategy.
+- [AI / Software Development — Work-Based Learning — InpharmD](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/inpharmd): Worked on the patient-facing frontend and cloud integration of a healthcare language-model application through a work-based-learning placement.
+- [Software Development — Work-Based Learning — Digitivy Solutions](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/digitivy): Worked across React interfaces, Node.js backend APIs, database-backed application flows, and AWS deployment workflows.
+- [Robotics Programmer / Subsystems Programmer — Techno Titans Robotics](https://j-anhavi.github.io/Janhavi-Personal-Portfolio/experience/techno-titans): Built Java/WPILib drivetrain software and hardware/software testbeds. Mentored ~20 programmers on debugging and subsystem design.
+
+## Profiles
+
+- [LinkedIn](https://www.linkedin.com/in/janhavi-dhote-3546b4324)
+- [GitHub](https://github.com/J-anhavi)
+- [Devpost](https://devpost.com/jcdhote)
